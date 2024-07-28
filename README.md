@@ -6,19 +6,6 @@
 <!-- 메인 타이틀 -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Mini's%20github&fontSize=70&fontColor=000000&color=0:778899,100:6495ED&stroke=FFFFFF" alt="venom" />
 
-<br><br>
-
-.˚  🍀 🍀．˚　*　　 ..
-<br>
-.　。o🍀🍀 🍀 ˚＇.　ㆀ● ''
-<br>
-▤🍀🍀🍀🍀🍀▤　┏■┛　　　
-<br>
-▤▤▤▤▤▤▤▤====┃┓
-<br>
-　　ⓢ　　ⓢ　　　━┛┃ 
-<br>
-mini's github where? here? 
 
 <br><br><br>
 
