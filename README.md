@@ -45,7 +45,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapaals2%2Fhit-counter&count_bg=%23818181&title_bg=%23718FB6&icon=icloud.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
 </div>
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=iapaalst&theme=dark)](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tistory&theme=dark)](https://iapaalst.tistory.com/)
 <a href="https://www.instagram.com/apaals/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 
 
