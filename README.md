@@ -31,3 +31,16 @@
 | [aimo : AI 기반 음성 인식 및 텍스트 중재 서비스](https://github.com/KTB16Team) |  - 모니터링 시스템 구축<br> - FE(React), AI(Python, FastAPI) 서버 구축 및 파이프라인 설계<br> - Docker 멀티스테이지 빌드 | 24.09 - 24.12 | Kakao Tech Bootcamp |
 | GO.A.T : 맞춤형 여행·생활 정보 제공 AI 어시스턴트 | - BE 서버(Node.js) 구축 및 파이프라인 설계<br> - 인프라 및 테라폼 설계 | 24.07 - 24.08 | Kakao Tech Bootcamp |
 | 학원출결프로그램 | - DB 설계<br> - BE 개발(PHP) | - | 개인 |
+
+## 🧾 Certifications
+
+| 취득 연도 | 자격증명                     | 발급 기관                  |
+|-----------|------------------------------|-----------------------------|
+| 2025      | AWS SAA                     | Amazon Web Services         |
+| 2024      | SQLD (SQL 개발자)           | 한국데이터산업진흥원        |
+| 2024      | ADsP (데이터분석 준전문가)  | 한국데이터산업진흥원        |
+| 2021      | 정보처리산업기사             | 한국산업인력공단            |
+
+<br/>
+
+[![aws-certified-solutions-architect-associate](https://github.com/user-attachments/assets/114b8af5-fbe6-432d-b2f4-9e4e60a1f819)](https://www.credly.com/badges/504d3512-49b3-4671-bd6c-f3dc7900c77d/public_url)
