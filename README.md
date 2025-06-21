@@ -6,7 +6,7 @@
 ## 📫 Contact
 
 [![Tistory Blog](https://img.shields.io/badge/Blog-000000?style=flat-square&logo=tistory&logoColor=white)](https://iapaalst.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-DB4437?style=flat-square&logo=gmail&logoColor=white)](mailto:kkhm97@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white)](mailto:ko_mini@naver.com)
 
 
 ## 🛠️ Tech Stacks
