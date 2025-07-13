@@ -27,6 +27,7 @@
 
 | 프로젝트 이름 | 담당 업무 | 기간 | 소속 |
 |---------------|-----------|------|------|
+| [QGenie : AI Agent SQL 서비스](https://github.com/Queryus) |  - Backend Lead, Infra | 25.06 - 25.08 | 개인 |
 | [Coinfo : AI 기반 암호화폐 뉴스 & 시세 분석 서비스](https://github.com/profect-Oops) |  - 모니터링 시스템 구축<br> - RBAC 기반 IAM 역할 구성 및 SSM 기반 프라이빗 인스턴스 접근 설정<br> - K8s 수동 구축 및 운영<br> - 도메인 및 네트워크 구성 | 25.01 - 25.04 | PROFECT |
 | [aimo : AI 기반 음성 인식 및 텍스트 중재 서비스](https://github.com/KTB16Team) |  - 모니터링 시스템 구축<br> - FE(React), AI(Python, FastAPI) 서버 구축 및 파이프라인 설계<br> - Docker 멀티스테이지 빌드 | 24.09 - 24.12 | Kakao Tech Bootcamp |
 | GO.A.T : 맞춤형 여행·생활 정보 제공 AI 어시스턴트 | - BE 서버(Node.js) 구축 및 파이프라인 설계<br> - 인프라 및 테라폼 설계 | 24.07 - 24.08 | Kakao Tech Bootcamp |
